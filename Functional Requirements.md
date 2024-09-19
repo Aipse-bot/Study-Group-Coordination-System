@@ -1,6 +1,5 @@
 Put here the functional requirements
 
-
 FUNCTIONAL REQUIREMENTS DOCUMENT
 Project Title: Study Group Coordination System
 Version: 1.0
